@@ -1,5 +1,5 @@
 # ⭐ Neutron Star Structure Modelling
-### Classical & Relativistic Simulation · TOV Equations · Runge-Kutta 4th Order · Spartificial × NASA
+### Classical & Relativistic Simulation · TOV Equations · Runge-Kutta 4th Order · 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange?style=flat-square&logo=numpy)
@@ -246,8 +246,8 @@ No external dataset needed — all physics constants are defined inline.
 **Mubeena Hussain**
 MSc Statistics — University of Kerala
 📧 mubeenahussain1205@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/mubeenahussain)
-🐙 [GitHub](https://github.com/YOUR-USERNAME)
+🔗 [LinkedIn](www.linkedin.com/in/mubeena-hussain-a357b920b)
+
 
 ---
 
